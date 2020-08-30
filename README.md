@@ -25,6 +25,14 @@ et je répresente la prévalence de la maladie dans la population en fonction de
 
 ### La sortie des courbes 
 
+###### Le nombre de test pcr effectué
+
 ![newplot(1)](https://user-images.githubusercontent.com/58962159/91657439-3232d000-eac1-11ea-946e-056fd580539b.png)
 
 Cette courbe représente le nombre de test positif et négatif effectué dans toute la population.
+
+###### Le nombre de personnes testées par ville
+
+![newplot(2)](https://user-images.githubusercontent.com/58962159/91657553-21cf2500-eac2-11ea-8692-5896b93a0f28.png)
+
+Ce graphe montre le nombre de personnes testées par état, l'état où on a effectué plus de test est "nsw" , nous allons voir s'il y a plus de personnes positif dans cette état.
