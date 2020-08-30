@@ -44,3 +44,8 @@ Ce graphe montre le nombre de personnes testées par état, l'état où on a eff
 
 On constate que l'état où on a effectué plus de tests pcr, les gens sont plus atteints du covid. Donc plus on effectue les tests, plus on a la possibilité de detecter les gens qui ont la maladie.
 
+##### Le nombre de personnes testées par tranche d'âge
+
+![newplot(4)](https://user-images.githubusercontent.com/58962159/91658070-68bf1980-eac6-11ea-937c-4e42ba8193d7.png)
+
+On constate sur ce graphe que les gens de plus de 30 ans sont les plus contaminés et ont effectué beaucoup le test pcr
