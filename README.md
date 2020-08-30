@@ -36,3 +36,11 @@ Cette courbe représente le nombre de test positif et négatif effectué dans to
 ![newplot(2)](https://user-images.githubusercontent.com/58962159/91657553-21cf2500-eac2-11ea-8692-5896b93a0f28.png)
 
 Ce graphe montre le nombre de personnes testées par état, l'état où on a effectué plus de test est "nsw" , nous allons voir s'il y a plus de personnes positif dans cette état.
+
+
+##### L'état des tests effectués par ville 
+
+![newplot(3)](https://user-images.githubusercontent.com/58962159/91657710-58f20600-eac3-11ea-817a-b041b1e81bd0.png)
+
+On constate que l'état où on a effectué plus de tests pcr, les gens sont plus atteints du covid. Donc plus on effectue les tests, plus on a la possibilité de detecter les gens qui ont la maladie.
+
