@@ -22,3 +22,9 @@ Par exemple les problèmes de saisies de données (typos, information manquante 
 
 2- Dans le second fichier, je fais la visualisation des données en faisant la jointure des deux tables du jeu de données, 
 et je répresente la prévalence de la maladie dans la population en fonction des tranches d'age.
+
+### La sortie des courbes 
+
+![newplot(1)](https://user-images.githubusercontent.com/58962159/91657439-3232d000-eac1-11ea-946e-056fd580539b.png)
+
+Cette courbe représente le nombre de test positif et négatif effectué dans toute la population.
